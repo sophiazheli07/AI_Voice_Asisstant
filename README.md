@@ -1,4 +1,4 @@
-# AI_Voice_Asssstant
+# AI_Voice_Assistant
 
 A Python-based implementation of the ElevenLabs Conversational AI platform. This project demonstrates a low-latency voice assistant capable of dynamic context injection, interrupt handling, and secure environment management.
 ----------------------------------------------------
